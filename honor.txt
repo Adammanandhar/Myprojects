@@ -1,0 +1,78 @@
+The Computer Science Program
+Programming Assignments and the Honor Code
+
+Students' work on programming assignments is covered 
+by the Honor Code unless a professor makes a contrary 
+stipulation to his or her entire class.  This document 
+addresses questions students have asked about how they 
+may get help while they are programming without 
+violating the Code.  There are many sources of help for 
+students working on programming assignments: 1) 
+books, journals and documents which are available 
+electronically, 2) fellow students and random other people,
+3) departmentally designated undergraduate programming 
+consultants or grading assistants, and 4) professors.
+
+Books, etc.  Copying or paraphrasing programs or 
+program fragments from these sources is permitted 
+under the Honor Code provided each instance of 
+copying or paraphrasing is documented with a proper 
+bibliographic reference.  Of course, if a professor 
+stipulates that copying and paraphrasing is not allowed 
+on a particular assignment, then copying and 
+paraphrasing on that assignment would violate the 
+Honor Code.
+
+Fellow Students and other people not included as 
+professors at Holy Cross or teaching assistants 
+covered in the following two sections.  Students 
+may ask other students (i.e. other people) only those 
+kinds of questions for which answers might be found 
+in documentation or manuals.  A student may ask, "What 
+does 'this error' mean?"  But the student may not ask 
+"Why did I get 'this error' when I ran this program 
+on this data?"  Students may not describe algorithms 
+to other students in the context of working on 
+programming assignments.  In general a student (or other 
+person) may not communicate to another student any 
+segment of code for purposes of giving or receiving 
+help.  Students (and other people) may never write 
+code for other students.
+
+
+Teaching/Grading Assistants.  These consultants are 
+available only when they are on duty during designated 
+lab times.  The consultants may, of course, respond to 
+questions which may be answered by any fellow student 
+(see Fellow Students above).  In addition, while they are 
+at work in or near the lab, the consultants may:
+
+--	discuss basic requirements for an assignment such 
+	as the specific tasks to be accomplished, the 
+	specific output required, and specific language 
+	features to be used;
+
+--	teach and explain syntax and the use of specific 
+	language statements and features in a context 
+	outside that of the assignment on which the 
+	questioner is working;
+
+--	interpret compile-time and run-time errors;
+
+--	help a student to trace the execution of a program 
+	or program segment;
+
+--	provide debugging aids or instruct the student in 
+	the use of the debugger;
+
+--	provide 1,0 statements to be placed in the 
+	student's code for debugging needs.
+
+Consultants must approach requests to develop specific 
+algorithms, write specific code, or repair faulty 
+algorithms or code, with the greatest caution.  
+Consultants should attempt to draw responses from 
+students rather than provide responses themselves.
+
+Professors.  A professor at Holy Cross may provide whatever 
+assistance she or he deems appropriate.

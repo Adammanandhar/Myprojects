@@ -1,0 +1,20 @@
+Discussion Log
+Assignment: Project 1 (Flight Calculator)
+Name: Trishala Manandhar
+
+09/20		1/2 hour		http://www.movable-type.co.uk/scripts/latlong.html
+		I used this website to learn about the calculation process of distance between two latitude and longitude points in a spherical shape. Also, to get a sense of idea as to how to break down the Haversine formula. Furthermore, this website helped me learn what each section of the formula calculates. Through the website I was able to learn what the variable ‘v’ in my calculation calculated.
+
+09/21		1 min		https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html
+		I used this website to check if the greater than or less than sign go before or after the equal sign. I found out that the greater than or less than sign is written before the equal sign. 
+
+ 
+9/21		5 min		Prof. King
+		I went to the office hours to ask about how to change the unsigned decimal degrees format to signed decimal degrees. I was confused because I had initially thought that the letter N/S or W/E would be in the same argument as the decimal number, but since I learned that they will be in different argument line, it made it more clear, especially after Prof. King suggested I should multiply the number by -1, thus changing it to a signed decimal degree format. 
+
+9/23		15min		Prof.King
+		Again, I went to office hours for some logistical question such as where the R’s value was and how to put the subset 2 under arctan in the distance formula. Also, I consulted with her regarding my if statement for changing the unsigned decimal degree to signed decimal degree. My code kept getting error, and she let me know it was because I had declared my variable for N/S and E/W as string instead of character. Since I had declared the variable as string, I couldn’t use the “==“ sign in order to state its equality. Thus, changing the type of character allowed me to do so.
+
+9/24		5min		https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
+		I went to this website because I was trying to figure out how to write arctan with a subscript 2 in the program. 
+
