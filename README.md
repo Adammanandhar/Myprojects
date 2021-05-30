@@ -1,0 +1,1 @@
+In this program, we will open an existing image in jpg format (the name of the file will be given as a command line argument to the program), convert the image from full color to grayscale, and then save the modified image in a file named grayscale.jpg.
