@@ -1,9 +1,0 @@
-Discussion Log
-Assignment:Project 3
-Name:Trishala Manandhar  
-
-10/20   15min        Matthew Elacqua (TA)
-        I went to the office hours because I kept getting error where the terminal kept saying that it didn't recognize, this line, while (inFile.hasNextline()), of my code and the TA noticed that my "l" in line was in small letter and it was supposed to be in capital letter.Then, he also noticed that I didn't have a line in my while loop saying inFile.readLine(), so he told me I should add that in.I didn't have that line because I assumed it would just go to next line if it starts the while loop again.Lastly, he reminded me that I need to also have character.UNASSIGNED in the functionif the target wasn't found. 
-
-10/26   15min        Prof.King
-        I kept getting an error when I was trying to transfer the ASCII character from the input file to the output file, and when I consulted with Prof. King, she let me know that I had a syntax error there where I did a printf statement instead of a general print statement. Also, she mentioned that I had other errors where I didn't put a single quotation marker when doing the if statement on checking if the character is 0  or 1. Lastly, she mentioned for my while loop, I need to check the loop to next character instead of .hasNextLine because otherwise it won't check every character.
