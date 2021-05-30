@@ -1,6 +1,0 @@
-Discussion Log
-Assignment:Project 4 (Recurssion)
-Name:Trishala Manandhar 
-
-11/02   20min            Prof.King
-        I went to office hours because no matter how many time I change the function and the code the drawing board wasn't showing any change and thus, after office hourse I realized it was because I was using a trackpad and thus, I had to click on the utmost right of the right of the trackpad to see results.After, that I did see some results however, I didn't know how to pause my coloring process as well as I didn't have the color in my parameters and didn't have the base case for the width, height and the negative coordinates. Thus, prof.King helped me figure out the problems with my code as I have stated before.
